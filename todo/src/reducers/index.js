@@ -7,3 +7,7 @@ const intalstate = {
     ],
 
 } 
+
+const reducer = (state=intalstate,action)=> {
+    
+}gto
